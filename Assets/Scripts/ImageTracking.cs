@@ -70,4 +70,5 @@ public class ImageTracking : MonoBehaviour
             }
         }
     }
+    // UnityEngine.Handheld.Vibrate();
 }
