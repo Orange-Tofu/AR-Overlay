@@ -18,12 +18,22 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5512391059881678897
-      m_GuidHigh: 18052302191471670916
+      m_GuidLow: 5115295833969153196
+      m_GuidHigh: 8926176763292176000
     m_SerializedTextureGuid:
-      m_GuidLow: 15498253249537070147
-      m_GuidHigh: 3644667710481713849
+      m_GuidLow: 10566763260953868945
+      m_GuidHigh: 5688679641564299129
+    m_Size: {x: 0.1, y: 0.05291667}
+    m_SpecifySize: 1
+    m_Name: Taj
+    m_Texture: {fileID: 2800000, guid: 62cdba91af3392a479bf6f7cfe3ff24e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5302243077802312963
+      m_GuidHigh: 14395658209454183588
+    m_SerializedTextureGuid:
+      m_GuidLow: 11066475368716278818
+      m_GuidHigh: 4791846475746122458
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
-    m_Name: Taja
-    m_Texture: {fileID: 2800000, guid: 99b35443db37d714b94a99eff8759432, type: 3}
+    m_Name: pillar
+    m_Texture: {fileID: 2800000, guid: 13f19c2204b79994da1a0e3dfb0e8042, type: 3}

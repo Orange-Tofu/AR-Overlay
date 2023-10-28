@@ -16,10 +16,11 @@ public class ImageTracking : MonoBehaviour
     private void Awake()
     {
         trackedImageManager = FindObjectOfType<ARTrackedImageManager>();
+        Vector3 myvector = new Vector3((float)-1,(float)-1,(float)-1);
 
         foreach(GameObject prefab in placeablePrefabs)
         {
-            GameObject newPrefab = Instantiate(prefab, Vector3.zero, Quaternion.identity);
+            GameObject newPrefab = Instantiate(prefab, Vector3.zero + myvector, Quaternion.identity);
             newPrefab.name = prefab.name;
             spawnedPrefabs.Add(prefab.name, newPrefab);
         }
