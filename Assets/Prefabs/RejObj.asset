@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f3b71a771f04aef8057fae3964fd78, type: 3}
+  m_Name: RejObj
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5409532551867271977
+  m_GuidHigh: 4705653156059146128
+  m_ReferenceObjects:
+  - m_GuidLow: 5378134997354676390
+    m_GuidHigh: 13370069286427171471
+    m_Name: 
+    m_Entries: []
